@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # SKY_PATROL 
 
 SKY_PATROL is a beginner-friendly project that simulates the use of AI and image processing to detect unauthorized construction from aerial imagery. It’s a proof-of-concept idea for monitoring city planning violations using satellite/drone images.
